@@ -1,5 +1,5 @@
 # MenuAPI
-MenuAPI is an API build on top of the Bukkit framework that simplifies creating inventory menus in Minecraft
+MenuAPI is an API built on top of the Bukkit framework that simplifies creating inventory menus in Minecraft
 
 Compiling
 --------
