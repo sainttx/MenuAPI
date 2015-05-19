@@ -1,0 +1,7 @@
+name: ${project.artifactId}
+main: com.sainttx.menu.MenuAPI
+version: ${project.version}
+
+description: ${project.description}
+authors: [ SainttX ]
+website: https://github.com/sainttx/MenuAPI
